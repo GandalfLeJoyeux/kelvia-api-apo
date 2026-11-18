@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.0.0 — 2026-11-18
+### Ajouté
+- blablabla tp1,2
+
 ## v0.1.0 — 2026-11-18
 ### Ajouté
 - Page de billetterie et routes /health et /billets
